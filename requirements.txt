@@ -1,0 +1,10 @@
+lxml==4.9.3
+minio==7.1.15
+natsort==8.4.0
+nest-asyncio==1.5.7
+Pillow==10.0.0
+pytz==2023.3
+requests==2.31.0
+Scrapy==2.9.0
+python-dotenv==1.0.0
+sendgrid==6.10.0
